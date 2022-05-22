@@ -2,7 +2,7 @@ import Wave from './components/Wave'
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Wave />
     </div>
   );
